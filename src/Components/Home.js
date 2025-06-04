@@ -61,8 +61,8 @@ export default function Home() {
 
             <section className={`home-section`}>
 
-            <img src='home1.jpg' id='v3' className={selectedButton === 0 ? 'active' : 'inactive'} />
-                <img src='home3.jpg' id='v3' className={selectedButton === 1 ? 'active' : 'inactive'} />
+            <img src='home3.jpg' id='v3' className={selectedButton === 0 ? 'active' : 'inactive'} />
+                <img src='home1.jpg' id='v3' className={selectedButton === 1 ? 'active' : 'inactive'} />
                 <img src='contact.jpg' id='v3' className={selectedButton === 2 ? 'active' : 'inactive'} /> 
                 <img src='home2.jpg' id='v3' className={selectedButton === 3 ? 'active' : 'inactive'} /> 
                 <img src='services.jpg' id='v3' className={selectedButton === 4 ? 'active' : 'inactive'} /> 

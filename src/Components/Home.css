@@ -234,7 +234,7 @@ font-weight: 600;
     flex: 0 0 40%;
 	max-width: 40%;
 padding-bottom: 20px;
-margin-right: 70px;
+margin-right: 50px;
 
 }
 
@@ -243,8 +243,8 @@ margin-right: 70px;
 }
 
 .right-normal h2{
-    flex: 0 0 49%;
-    max-width: 49%;
+    flex: 0 0 70%;
+    max-width: 70%;
     font-size: 37.5px;
     font-weight: 600;
     line-height: 1.2;

@@ -141,6 +141,11 @@ export default function Login() {
 
                     <form action="" id="form" className={`form signupform ${strengthClass} ${email}`} method="post">
                         <h2 className="form-title">Sign Up</h2>
+
+                        <div className="input-field">
+                            <i className="fas fa-user"></i>
+                            <input type="text" name="name" placeholder="Name" />
+                        </div>
                         <div className="input-field">
                             <i className="fas fa-user"></i>
                             <input type="text" name="username" placeholder="Username" />

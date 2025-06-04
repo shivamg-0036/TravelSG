@@ -38,7 +38,7 @@ function App() {
       
         <div id='progressbar'></div>
         <div id='scrollbar'></div>
-        <BrowserRouter>
+      
 
           <Routes>
             <Route path="/" element={<Home />}></Route>
@@ -52,7 +52,6 @@ function App() {
 
           </Routes>
 
-        </BrowserRouter>
   
 
     </div>
