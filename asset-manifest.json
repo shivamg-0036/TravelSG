@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TravelSG/static/css/main.081bc09d.css",
+    "main.js": "/TravelSG/static/js/main.5bdd36dc.js",
+    "static/media/abouter1.jpg": "/TravelSG/static/media/abouter1.68bdd65ec262584bf29d.jpg",
+    "static/media/footer.jpg": "/TravelSG/static/media/footer.2cdaafce2dbb428ea9d1.jpg",
+    "static/media/contact.jpg": "/TravelSG/static/media/contact.b3306c1dc75a79b0062b.jpg",
+    "static/media/sustainable.jpg": "/TravelSG/static/media/sustainable.5ae51ba00f7e3aee5129.jpg",
+    "static/media/services.jpg": "/TravelSG/static/media/services.204447652e03c6a3365f.jpg",
+    "static/media/choose.jpg": "/TravelSG/static/media/choose.0ba527a38aea2c85c55c.jpg",
+    "static/media/about.jpg": "/TravelSG/static/media/about.354914cf768984459b0d.jpg",
+    "static/media/OneTreePlanted.webp": "/TravelSG/static/media/OneTreePlanted.99b578086d61687637e5.webp",
+    "index.html": "/TravelSG/index.html",
+    "static/media/dropdown.webp": "/TravelSG/static/media/dropdown.9deb9c6cfae7c325b954.webp",
+    "main.081bc09d.css.map": "/TravelSG/static/css/main.081bc09d.css.map",
+    "main.5bdd36dc.js.map": "/TravelSG/static/js/main.5bdd36dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.081bc09d.css",
+    "static/js/main.5bdd36dc.js"
+  ]
+}
